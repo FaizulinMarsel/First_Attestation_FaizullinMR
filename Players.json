@@ -1,0 +1,16 @@
+[ {
+  "id" : 2,
+  "nick" : "Alex",
+  "points" : 10,
+  "online" : true
+}, {
+  "id" : 3,
+  "nick" : "Bob",
+  "points" : 0,
+  "online" : true
+}, {
+  "id" : 4,
+  "nick" : "Anna",
+  "points" : 0,
+  "online" : true
+} ]
